@@ -1,5 +1,5 @@
 h1 {
-  color: black;
+  color: darkblue;
   text-align: center;
   font-size: 60px
 }
@@ -11,12 +11,12 @@ h2 {
 }
 
 p{
-  font-style: bold;
+  font-style: italic;
   color: black;
 }
 
 body {
-  background-color: orange;
-  font-family: sans-serif;
+  background-color: lightgrey;
+  font-family: fantasy;
   text-align: center;
 }
